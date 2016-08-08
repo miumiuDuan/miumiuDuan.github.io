@@ -4,7 +4,7 @@ title: "How to post a blog"
 date: 2016-8-8 21:32:59
 ---
 
-# 如何发布一篇 Blog
+## 如何发布一篇 Blog
 
 需要在 Blog 中发布的文章，要写成后缀名为 .md 的 Markdown 格式的文件，并放在根目录下面的 posts 文件夹中。
 
