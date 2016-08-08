@@ -1,0 +1,21 @@
+# Settings
+gems: [jekyll-paginate]
+permalink:           pretty
+baseurl:             https://miumiuduan.github.io
+paginate:            5
+encoding:            utf-8
+
+version:             1.0.0
+title:               miumiuduan's Blog
+tagline:             依旧青山绿水多
+
+# About/contact
+author:
+  name:              Duan Xiaoyan
+  description:       miumiu's Blog
+  url:               miumiuduan.github.io
+  email:             miumiuduan@gmail.com
+  githubAddress:     https://github.com/miumiuduan
+  # avater:
+
+excerpt_separator:   <!--more-->
